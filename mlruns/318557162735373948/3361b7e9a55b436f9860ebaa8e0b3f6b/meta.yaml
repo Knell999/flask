@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/318557162735373948/3361b7e9a55b436f9860ebaa8e0b3f6b/artifacts
+end_time: 1746680775715
+entry_point_name: ''
+experiment_id: '318557162735373948'
+lifecycle_stage: active
+run_id: 3361b7e9a55b436f9860ebaa8e0b3f6b
+run_name: nosy-wolf-277
+run_uuid: 3361b7e9a55b436f9860ebaa8e0b3f6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746680772508
+status: 3
+tags: []
+user_id: ubuntu

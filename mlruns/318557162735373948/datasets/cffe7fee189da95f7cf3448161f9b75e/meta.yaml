@@ -1,0 +1,10 @@
+digest: 058abd32
+name: dataset
+profile: '{"features_shape": [105, 4], "features_size": 420, "features_nbytes": 3360,
+  "targets_shape": [105], "targets_size": 105, "targets_nbytes": 840}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1, 4]}}]", "targets": "[{\"type\": \"tensor\",
+  \"tensor-spec\": {\"dtype\": \"int64\", \"shape\": [-1]}}]"}}'
+source: '{"tags": {"mlflow.user": "ubuntu", "mlflow.source.name": "train_mlflow.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "5c4b8ca219aa1aafdcf6a581a16ce5986b75c01b"}}'
+source_type: code

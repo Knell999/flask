@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/318557162735373948/39c44467da3f45afb900dffaf95ac87e/artifacts
+end_time: 1746680779536
+entry_point_name: ''
+experiment_id: '318557162735373948'
+lifecycle_stage: active
+run_id: 39c44467da3f45afb900dffaf95ac87e
+run_name: classy-fly-197
+run_uuid: 39c44467da3f45afb900dffaf95ac87e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746680777611
+status: 3
+tags: []
+user_id: ubuntu

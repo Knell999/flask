@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/318557162735373948/489672c314144bc9b9f55037e15f5772/artifacts
+end_time: 1746680781453
+entry_point_name: ''
+experiment_id: '318557162735373948'
+lifecycle_stage: active
+run_id: 489672c314144bc9b9f55037e15f5772
+run_name: luxuriant-bear-350
+run_uuid: 489672c314144bc9b9f55037e15f5772
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746680779542
+status: 3
+tags: []
+user_id: ubuntu
